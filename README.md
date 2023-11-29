@@ -10,4 +10,18 @@ Aqui temos todos os códigos utilizados para o estudo do desenvolvimento Front E
                         <option value="3"> Javascript</option>                    
                     </select>
 ```
+>Trecho utilizando CSS
+```css
+.button-default{
+    background-color: #49bf9d;
+    border: 3px solid #49bf9d;
+    color: white;
+    padding: .75em 1.5em;
+    border-radius: 5px;
+    font-size: .8em;
+    display: inline-block;
+    width: auto;
+    transition: all .5s;
+    cursor: pointer;
+```
 

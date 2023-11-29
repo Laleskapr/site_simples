@@ -3,12 +3,12 @@ Aqui temos todos os códigos utilizados para o estudo do desenvolvimento Front E
 
 >Exemplo de trecho utilizando HTML
 
-'''
+"""
  <select>
                         <option value="0"> Selecione ...</option>
                         <option value="1"> HTML</option>
                         <option value="2"> CSS</option>
                         <option value="3"> Javascript</option>                    
                     </select>
-'''
+"""
  

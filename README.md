@@ -1,7 +1,7 @@
 # Estudo de um site simples.
 Aqui temos todos os códigos utilizados para o estudo do desenvolvimento Front End, de um site simples.
 
->Trecho utilizando HTML
+>Exemplo de trecho utilizando HTML
 ```html
  <select>
                         <option value="0"> Selecione ...</option>
@@ -10,7 +10,7 @@ Aqui temos todos os códigos utilizados para o estudo do desenvolvimento Front E
                         <option value="3"> Javascript</option>                    
                     </select>
 ```
->Trecho utilizando CSS
+>Exemplo de trecho utilizando CSS
 ```css
 .button-default{
     background-color: #49bf9d;

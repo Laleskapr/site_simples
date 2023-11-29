@@ -2,7 +2,8 @@
 Aqui temos todos os códigos utilizados para o estudo do desenvolvimento Front End, de um site simples.
 
 >Exemplo de trecho utilizando HTML
-'''HTML
+
+'''
  <select>
                         <option value="0"> Selecione ...</option>
                         <option value="1"> HTML</option>
@@ -10,3 +11,4 @@ Aqui temos todos os códigos utilizados para o estudo do desenvolvimento Front E
                         <option value="3"> Javascript</option>                    
                     </select>
 '''
+ 
